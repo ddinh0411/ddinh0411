@@ -3,7 +3,9 @@
 
 - 🔭 PROJECT I'M MOST PROUD OF [ROMSLY](https://github.com/ddinh0411/ROMSly)
 
-- 👨‍💻 You can see my portfolio at: [https://dadinh-portfolio.vercel.app](https://dadinh-portfolio.vercel.app)
+- Current Project: [Personal Portfolio v2](https://danieldinh-portfolio-v2.vercel.app)
+
+- 👨‍💻 You can see my portfolio [HERE](https://danieldinh-portfolio-v2.vercel.app)
 
 - 📫 How to reach me **danieldinh4112@gmail.com**
 
